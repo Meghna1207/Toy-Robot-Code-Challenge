@@ -24,6 +24,6 @@ The Toy Robot Simulator allows users to place a toy robot on a 5x5 grid and comm
 
 To run the Toy Robot Simulator locally, follow these simple steps:
 
-1. **Clone the repository**:
-   ```bash
+1. Clone the repository:
+   bash
    git clone https://github.com/Meghna1207/ToyRobotSimulator.git
