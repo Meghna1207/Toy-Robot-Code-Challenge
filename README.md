@@ -1,10 +1,7 @@
 # Toy-Robot-Code-Challenge
-# Toy Robot Simulator
-
 Welcome to the Toy Robot Simulator
 
 ## Project Overview
-
 The Toy Robot Simulator allows users to place a toy robot on a 5x5 grid and command it to move around. You can instruct the robot to move in different directions, turn left or right, and report its current position. This simulator not only demonstrates the principles of movement and direction but also showcases the power of user input in programming.
 
 ## Features
@@ -21,7 +18,6 @@ The Toy Robot Simulator allows users to place a toy robot on a 5x5 grid and comm
 - JavaScript: For implementing the core functionality and logic of the simulator.
 
 ## Installation
-
 To run the Toy Robot Simulator locally, follow these simple steps:
 
 1. Clone the repository:
