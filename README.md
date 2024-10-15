@@ -22,7 +22,9 @@ To run the Toy Robot Simulator locally, follow these simple steps:
 
 1. Clone the repository:
    bash
-   git clone https://github.com/Meghna1207/ToyRobotSimulator.git
+   git clone https://github.com/Meghna1207/Toy-Robot-Code-Challenge.git
+
+   
 
    ## Documentation
    [Project Documentation](User Guide)
