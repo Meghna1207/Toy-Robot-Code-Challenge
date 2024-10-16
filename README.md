@@ -47,5 +47,24 @@ Open the index.html file in your browser.
 - **Decision**: HTML is used for structure, CSS for styling, and JavaScript for functionality.
 - **Reason**: This separation keeps the code organized and maintainable, allowing for easier updates and debugging in the future.
 
+## Testing
+
+The Toy Robot Simulator includes a comprehensive testing suite developed using **Jasmine** to ensure the functionality and reliability of the application.
+
+### Test Coverage
+
+The following key functionalities have been tested:
+
+- **Correct Placement**: Ensures the robot is accurately placed on the 5x5 grid.
+- **Movement Functionality**: Verifies that the robot can move according to the given commands.
+- **Boundary Restrictions**: Confirms that the robot cannot move outside the defined 5x5 grid.
+- **Directional Rotation**: Tests the robot's ability to turn left and right accurately.
+- **Position Reporting**: Checks that the robot reports its current position and direction correctly.
+
+### Running Tests
+
+To run the tests, open the `SpecRunner.html` file in your browser. This will execute all test cases and display the results.
+
+
   ## Documentation
  [Project Documentation](User Guide)
