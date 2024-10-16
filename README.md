@@ -20,7 +20,7 @@ To run the Toy Robot Simulator locally, follow these simple steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Meghna1207/Toy-Robot-Code-Challenge.git
-Open the index.html file in your browser.
+ 2.Open the index.html file in your browser.
 
 ## Design Decisions
 ### Grid Size
@@ -63,7 +63,7 @@ The following key functionalities have been tested:
 
 ### Running Tests
 
-To run the tests, open the `SpecRunner.html` file in your browser. This will execute all test cases and display the results.
+To run the tests for the Toy Robot Simulator, please open the SpecRunner.html file located in the unit-test-jasmine folder in browser. This will execute all test cases and display the results.
 
 
   ## Documentation
